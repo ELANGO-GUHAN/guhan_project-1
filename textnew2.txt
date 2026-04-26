@@ -1,0 +1,1 @@
+create new txt2.txt file
